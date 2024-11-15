@@ -1,0 +1,20 @@
+body {
+    padding: 20px;
+    
+}
+
+#btn-start-quiz {
+    padding: 1.5em;
+}
+
+
+
+.col {
+    border: solid black 2px;
+
+}
+
+.row {
+    border: solid red 2px;
+    padding: 1rem;
+}
