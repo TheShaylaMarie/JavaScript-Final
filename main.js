@@ -11,7 +11,7 @@ const question_card = document.querySelector("#quiz-question-card");
 
 const api_url = "https://quizapi.io"; 
 const api_function = "/api/v1/questions"; //?limit=1 (to limit the number of questions if wanted)
-const api_key = "O2tWwsN3ppVfMtcnfoRIK1ZxFw1B9ojzamzxnw5R";
+const api_key = "";
 const api_endpoint = api_url + api_function;
 
 
